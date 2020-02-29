@@ -6,9 +6,7 @@ thumbnailImagePosition: left
 thumbnailImage: /images/uploads/4016b967576d1315e73ad00a97ec1651.png
 coverImage: ''
 ---
-## MarkDow teste
-
-```python
+´´´
 def python():
-   print('teste')`
-```
+   print("teste")
+´´´
